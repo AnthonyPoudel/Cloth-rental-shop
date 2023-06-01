@@ -1,0 +1,5 @@
+Polo Dress,Louis Vuitton,$50,51   
+Floral Lace Dress ,Gucci,$75,49
+Cady Dress,Prada,$98,41 
+Nike court,Nike,$88,50           
+Tee Dress,Adidas,$102,46    
